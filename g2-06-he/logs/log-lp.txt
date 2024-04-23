@@ -81,7 +81,7 @@ o LP-Neg01
 
   Description:
 
- The help section and documentation are not easily accessible, requiring several clicks to
+ The help section and documentation are not easily accessible. It is requiring several clicks to
  reach, which can frustrate users seeking quick help.
 
   Video Clip(s):  lp-neg01-help-and-documentation.mp4
@@ -99,7 +99,8 @@ o LP-Neg02
 
   Description:
 
-  Sometimes if you click on an item the correct item is not appearing
+  Sometimes if you click on an item the correct item is not appearing.
+sometimes it also shows just a wrong one.
 
   Video Clip(s):  lp-neg02-inconsistent-navigation.mp4
 
@@ -117,6 +118,7 @@ o LP-Neg03
   Description:
 
   Sometimes if you use the get the look function there is an error because no part of the look is still available.
+This could be really annoying for customers.
 
   Video Clip(s):  lp-neg03-get-the-look.mp4
 
@@ -150,7 +152,7 @@ o LP-Neg05
 
   Description:
 
-  Product pages contain excessive amounts of text, images, and interactive elements that can overwhelm the user.
+  Product pages contain excessive amounts of text, images, and interactive elements. this could overwhelm the user.
 
   Video Clip(s):  lp-neg05-overloaded-product-pages.mp4
 
@@ -167,7 +169,7 @@ o LP-Neg06
 
   Description:
 
-  The checkout process on Bershka.com is overly complicated, involving multiple steps that are not clearly explained.
+  The checkout process on Bershka.com is overly complicated. It is involving multiple steps that are not clearly explained.
 
   Video Clip(s):  lp-neg06-complicated-checkout-process.mp4
 
@@ -219,7 +221,8 @@ o LP-Neg09
 
   Description:
 
-  When pressing the Bershka Logo while on the startside you are not returning to the top of the page
+  When pressing the Bershka Logo while on the startside you are not returning to the top of the page.
+Which can be annoying for customers.
   
   Video Clip(s):  lp-neg09-returning-to-start.mp4
 
@@ -236,7 +239,7 @@ o LP-Neg10
 
   Description:
 
-  If you hover above the picture of a product the zoom (erweitert) button appears which is not looking professional
+  If you hover above the picture of a product the zoom (erweitert) button appears. The way it follows the cursor which is not looking professional
   
   Video Clip(s):  lp-neg10-zoom-button-apperance.mp4
 
@@ -253,7 +256,7 @@ o LP-Neg11
 
   Description:
 
-  If you hover above the picture of a product and scrole the zoom button freezes in place
+  If you hover above the picture of a product and scrole the zoom button freezes in place. If you scorll down it just stays there until you move the mouse again.
   
   Video Clip(s):  lp-neg11-zoom-button-bugging.mp4
 
@@ -270,7 +273,7 @@ o LP-Neg12
 
   Description:
 
-  If you want to add something to you cart but forget to add the size the error message is really poor.
+  If you want to add something to you cart but forget to add the size the error message is really poor. This could confuse customers. 
   
   Video Clip(s):  lp-neg12-cart-error.mp4
 
@@ -287,7 +290,7 @@ o LP-Neg13
 
   Description:
 
-  If you want to reverse the deletion of an item in your shopping cart it's not working
+  If you want to reverse the deletion of an item in your shopping cart it's not working. This can be really annoying especially if you are in a hurry.
   
   Video Clip(s):  lp-neg13-reversing-deletion.mp4
 
@@ -304,8 +307,8 @@ o LP-Neg14
 
   Description:
 
-  if you want to buy something you have to create an account
-  
+  If you want to buy something you have to create an account. Otherwise you'r not able to buy anything.
+   
   Video Clip(s):  lp-neg14-forced-acc-creation.mp4
 
   How Reproducible?:  always
@@ -321,7 +324,7 @@ o LP-Neg15
 
   Description:
 
-  there are limited payment options
+  There are limited payment options. You cant pay with applepay for example.
   
   Video Clip(s):  lp-neg15-limited-payment.mp4
 
@@ -338,7 +341,7 @@ o LP-Neg16
 
   Description:
 
-  its not simple to delet a account
+  Its not simple to delet a account. This is annoying because you have to create one in order to buy products.
   
   Video Clip(s):  lp-neg16-account-deletion.mp4
 
