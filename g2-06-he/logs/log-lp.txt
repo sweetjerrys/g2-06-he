@@ -34,12 +34,15 @@ o LP-Pos01
   Description:
 
   The usage of the shopping cart feels really intuitive.
-  If you made a mistake by selecting the wrong pice or you
-  want a different size it is really easy to do so.
+  If you made a mistake by selecting the wrong pice or you want a different size it is really easy to do so.
+
 
   Video Clip(s):  lp-pos01-easy-to-use-shopping-cart.mp4
 
   How Reproducible?:  When using the shoppingcart
+
+
+
 
 
 o LP-Pos03
@@ -49,26 +52,30 @@ o LP-Pos03
   Description:
 
   The user can choose between different delivery options.
-  Normal delivery, express delivery,
-  delivery to a store near by where you can then collect it.
-  If the store already has all your items you can collect them the same day. 
+  Normal delivery, express delivery, delivery to a store near by where you can then collect it. If the store already has all your items you can collect them the same day. 
+
 
   Video Clip(s):  lp-pos02-shipment-options.mp4
 
-  How Reproducible?:  buy something
+  How Reproducible?:  Buy something
+
+
+
 
 
 o LP-Pos03
 
-  Title:  idea of get the look
+  Title:  Idea of get the look
 
   Description:
 
-  The idea behind the get the look function is really good. You can see exactly how the style would look in action.
+  The idea behind the get the look function is really good. 
+  You can see exactly how the style would look in action.
+
 
   Video Clip(s):  lp-pos03-get-the-look.mp4
 
-  How Reproducible?:  using the get the look function
+  How Reproducible?:  Using the get the look function
 
 
 
@@ -81,34 +88,42 @@ o LP-Neg01
 
   Description:
 
- The help section and documentation are not easily accessible. It is requiring several clicks to
- reach, which can frustrate users seeking quick help.
+  The help section and documentation are not easily accessible. 
+  It is requiring several clicks to reach, which can frustrate users seeking quick help.
+
 
   Video Clip(s):  lp-neg01-help-and-documentation.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
   Heuristic:  A10 Help and Documentation
 
-  Only When: Searching for help or documentations
+  Only When:  Searching for help or documentations
+
+
+
 
 
 o LP-Neg02
 
-  Title: Inconsistent navigation
+  Title:  Inconsistent navigation
 
   Description:
 
   Sometimes if you click on an item the correct item is not appearing.
-sometimes it also shows just a wrong one.
+  Sometimes it also shows just a wrong one.
+
 
   Video Clip(s):  lp-neg02-inconsistent-navigation.mp4
 
-  How Reproducible?:  sometimes
+  How Reproducible?:  Sometimes
 
-  Heuristic:   A04 Consistency
+  Heuristic:  A04 Consistency
 
-  Only When: Navigating through various sections of the site
+  Only When:  Navigating through various sections of the site
+
+
+
 
 
 o LP-Neg03
@@ -118,15 +133,19 @@ o LP-Neg03
   Description:
 
   Sometimes if you use the get the look function there is an error because no part of the look is still available.
-This could be really annoying for customers.
+  This could be really annoying for customers.
+
 
   Video Clip(s):  lp-neg03-get-the-look.mp4
 
-  How Reproducible?:  somtimes 
+  How Reproducible?:  Somtimes 
 
   Heuristic:  A09 GoodError Messages
 
-  Only When: using the get the look function
+  Only When:  Using the get the look function
+
+
+
 
 
 o LP-Neg04
@@ -135,15 +154,20 @@ o LP-Neg04
 
   Description:
 
-  The website uses fashion-specific jargon and non-standard terminology which may not be familiar to all users, especially newcomers. For example "Mom Fit Jeans".
+  The website uses fashion-specific jargon and non-standard terminology which may not be familiar to all users, especially newcomers. 
+  For example "Mom Fit Jeans".
+
 
   Video Clip(s):  lp-neg04-non-standard-terminology.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
   Heuristic:  A02 Speak the Users’ Language
 
-  Only When: Reading product descriptions or navigating product categories
+  Only When:  Reading product descriptions or navigating product categories
+
+
+
 
 
 o LP-Neg05
@@ -152,15 +176,20 @@ o LP-Neg05
 
   Description:
 
-  Product pages contain excessive amounts of text, images, and interactive elements. this could overwhelm the user.
+  Product pages contain excessive amounts of text, images, and interactive elements. 
+  This could overwhelm the user.
+
 
   Video Clip(s):  lp-neg05-overloaded-product-pages.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
   Heuristic:  A08 Aesthetic and Minimalist Design
 
-  Only When: Viewing product details
+  Only When:  Viewing product details
+
+
+
 
 
 o LP-Neg06
@@ -169,15 +198,20 @@ o LP-Neg06
 
   Description:
 
-  The checkout process on Bershka.com is overly complicated. It is involving multiple steps that are not clearly explained.
+  The checkout process on Bershka.com is overly complicated. 
+  It is involving multiple steps that are not clearly explained.
+
 
   Video Clip(s):  lp-neg06-complicated-checkout-process.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A07 Flexibility and Efficiency of Use
+  Heuristic:  A07 Flexibility and Efficiency of Use
 
-  Only When: Completing a purchase
+  Only When:  Completing a purchase
+
+
+
 
 
 o LP-Neg07
@@ -186,15 +220,20 @@ o LP-Neg07
 
   Description:
 
-  The search functionality on the site is limited, offering few filters to refine results, which can make it difficult for users to find specific products. Cant fillter for color for example.
+  The search functionality on the site is limited, offering few filters to refine results, which can make it difficult for users to find specific products. 
+  Cant fillter for color for example.
+
 
   Video Clip(s):  lp-neg01-limited-search.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A06 Recognition Rather Than Recall
+  Heuristic:  A06 Recognition Rather Than Recall
 
-  Only When: Using the search feature
+  Only When:  Using the search feature
+
+
+
 
 
 o LP-Neg08
@@ -206,13 +245,17 @@ o LP-Neg08
   The visual design of Bershka.com is cluttered, with excessive animations, varying fonts, and a lack of whitespace. 
   This can overwhelm users and make the site difficult to navigate.
 
+
   Video Clip(s):  lp-neg08-cluttered-visual-design.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A08 Aesthetic and Minimalist Design
+  Heuristic:  A08 Aesthetic and Minimalist Design
 
-  Only When: Browsing the site
+  Only When:  Browsing the site
+
+
+
 
 
 o LP-Neg09
@@ -222,15 +265,19 @@ o LP-Neg09
   Description:
 
   When pressing the Bershka Logo while on the startside you are not returning to the top of the page.
-Which can be annoying for customers.
+  Which can be annoying for customers.
+
   
   Video Clip(s):  lp-neg09-returning-to-start.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A04 Consistency 
+  Heuristic:  A04 Consistency 
 
-  Only When: Browsing the mainsite
+  Only When:  Browsing the mainsite
+
+
+
 
 
 o LP-Neg10
@@ -239,15 +286,20 @@ o LP-Neg10
 
   Description:
 
-  If you hover above the picture of a product the zoom (erweitert) button appears. The way it follows the cursor which is not looking professional
+  If you hover above the picture of a product the zoom (erweitert) button appears. 
+  The way it follows the cursor which is not looking professional.
+
   
   Video Clip(s):  lp-neg10-zoom-button-apperance.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A08 Aesthetic and Minimalist Design
+  Heuristic:  A08 Aesthetic and Minimalist Design
 
-  Only When: viewing product
+  Only When:  Viewing product
+
+
+
 
 
 o LP-Neg11
@@ -256,15 +308,20 @@ o LP-Neg11
 
   Description:
 
-  If you hover above the picture of a product and scrole the zoom button freezes in place. If you scorll down it just stays there until you move the mouse again.
+  If you hover above the picture of a product and scrole the zoom button freezes in place. 
+  If you scorll down it just stays there until you move the mouse again.
+
   
   Video Clip(s):  lp-neg11-zoom-button-bugging.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A08 Aesthetic and Minimalist Design
+  Heuristic:  A08 Aesthetic and Minimalist Design
 
-  Only When: viewing product
+  Only When:  Viewing product
+
+
+
 
 
 o LP-Neg12
@@ -273,32 +330,42 @@ o LP-Neg12
 
   Description:
 
-  If you want to add something to you cart but forget to add the size the error message is really poor. This could confuse customers. 
+  If you want to add something to you cart but forget to add the size the error message is really poor.
+  This could confuse customers. 
   
+
   Video Clip(s):  lp-neg12-cart-error.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A09 GoodError Messages
+  Heuristic:  A09 GoodError Messages
 
-  Only When: adding a pice to the shopping cart
+  Only When:  Adding a pice to the shopping cart
 
  
+
+
+
 o LP-Neg13
 
   Title:  Reversing the deletion of item 
 
   Description:
 
-  If you want to reverse the deletion of an item in your shopping cart it's not working. This can be really annoying especially if you are in a hurry.
+  If you want to reverse the deletion of an item in your shopping cart it's not working.
+  This can be really annoying especially if you are in a hurry.
+
   
   Video Clip(s):  lp-neg13-reversing-deletion.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A03 Reversible Actions
+  Heuristic:  A03 Reversible Actions
 
-  Only When: when editing the shoppingcart
+  Only When:  When editing the shoppingcart
+
+
+
 
 
 o LP-Neg14
@@ -307,15 +374,20 @@ o LP-Neg14
 
   Description:
 
-  If you want to buy something you have to create an account. Otherwise you'r not able to buy anything.
+  If you want to buy something you have to create an account. 
+  Otherwise you'r not able to buy anything.
+
    
   Video Clip(s):  lp-neg14-forced-acc-creation.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A07 Flexibility and Efficiency of Use
+  Heuristic:  A07 Flexibility and Efficiency of Use
 
-  Only When: when checking out
+  Only When:  When checking out
+
+
+
 
 
 o LP-Neg15
@@ -324,15 +396,20 @@ o LP-Neg15
 
   Description:
 
-  There are limited payment options. You cant pay with applepay for example.
+  There are limited payment options. 
+  You cant pay with applepay for example.
+
   
   Video Clip(s):  lp-neg15-limited-payment.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A07 Flexibility and Efficiency of Use
+  Heuristic:  A07 Flexibility and Efficiency of Use
 
-  Only When: when checking out
+  Only When:  When checking out
+
+
+
 
 
 o LP-Neg16
@@ -341,13 +418,18 @@ o LP-Neg16
 
   Description:
 
-  Its not simple to delet a account. This is annoying because you have to create one in order to buy products.
+  Its not simple to delet a account. 
+  This is annoying because you have to create one in order to buy products.
+  
   
   Video Clip(s):  lp-neg16-account-deletion.mp4
 
-  How Reproducible?:  always
+  How Reproducible?:  Always
 
-  Heuristic: A03 Reversible Actions
+  Heuristic:  A03 Reversible Actions
 
-  Only When: when wanting to delete account
+  Only When:  When wanting to delete account
+
+
+
 

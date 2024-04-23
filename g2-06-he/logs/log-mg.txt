@@ -34,12 +34,12 @@ o MG-Pos01
   Description:
 
   The website provides a button where the user can access accessibility profiles.
-  This include for example different website colours for colour-blind people
+  This include for example different website colours for colour-blind people.
 
 
   Video Clip(s):  mg-pos01-accessibility-profiles.mp4
 
-  How Reproducible?:  open bershka.com on a fresh browser
+  How Reproducible?:  Open bershka.com on a fresh browser
 
 
 
@@ -57,7 +57,7 @@ o MG-Pos02
 
   Video Clip(s):  mg-pos02-back-in-place.mp4
 
-  How Reproducible?:  from an item list select one item -> return to previous page
+  How Reproducible?:  From an item list select one item -> return to previous page
 
 
 
@@ -75,7 +75,7 @@ o MG-Pos03
 
   Video Clip(s):  mg-pos03-undo-ok.mp4
 
-  How Reproducible?:  place one item in the basket -> delete said item -> click undo
+  How Reproducible?:  Place one item in the basket -> delete said item -> click undo
 
 
 
@@ -93,7 +93,7 @@ o MG-Pos04
 
   Video Clip(s):  mg-pos04-cookie-settings.mp4
 
-  How Reproducible?:  navigate to the footer -> open cookie settings and choose a different setting.
+  How Reproducible?:  Navigate to the footer -> open cookie settings and choose a different setting.
 
 
 
@@ -137,7 +137,7 @@ o MG-Neg02
 
   How Reproducible?:  Open bershka.com -> choose "man"
 
-  Heuristic:  
+  Heuristic:  A04 Consistency
 
 
 
@@ -176,7 +176,7 @@ o MG-Neg04
 
   Video Clip(s):  mg-neg04-last-picture.mp4
 
-  How Reproducible?:  choose one item -> scroll through the pictures
+  How Reproducible?:  Choose one item -> scroll through the pictures
 
   Heuristic:  A07 Flexibility and Efficiency of Use
 
@@ -196,7 +196,7 @@ o MG-Neg05
 
   Video Clip(s):  mg-neg05-accessibility-gone.mp4
 
-  How Reproducible?:  click on the "x" on the right side of the accessibility button
+  How Reproducible?:  Click on the "x" on the right side of the accessibility button
 
   Heuristic:  A03 Reversible Actions
 
@@ -216,7 +216,7 @@ o MG-Neg06
 
   Video Clip(s):  mg-neg06-filter-wrong.mp4
 
-  How Reproducible?:  open filter selection -> choose filters -> exit without confirming
+  How Reproducible?:  Open filter selection -> choose filters -> exit without confirming
 
   Heuristic:  A06 Recognition Rather Than Recall
 
@@ -251,14 +251,14 @@ o MG-Neg08
   Description:
 
   Under Man -> New items if the filter all is selected the UI shows no results. 
-  But the number on the left to the filter window shows 347 results
+  But the number on the left to the filter window shows 347 results.
 
 
   Video Clip(s):  mg-neg08-no-results.mp4
 
   How Reproducible?:  Choose man -> in the menu choose "new" -> choose "all"
 
-  Heuristic:  
+  Heuristic:  A04 Consistency
 
 
 
@@ -296,7 +296,7 @@ o MG-Neg10
 
   Video Clip(s):  mg-neg10-reloading-no-access.mp4
 
-  How Reproducible?:  close accessibility button -> reopen bershka.com without the url endings for language or country
+  How Reproducible?:  Close accessibility button -> reopen bershka.com without the url endings for language or country
 
   Heuristic:  A03 Reversible Actions
 
@@ -316,7 +316,7 @@ o MG-Neg11
 
   Video Clip(s):  mg-neg11-sale-language.mp4
 
-  How Reproducible?:  open menu -> navigate through the three sections
+  How Reproducible?:  Open menu -> navigate through the three sections
 
   Heuristic:  A04 Consistency
 
@@ -356,7 +356,7 @@ o MG-Neg13
 
   Video Clip(s):  mg-neg13-page-zoom.mp4
 
-  How Reproducible?:  select one item -> click multiple times on increase quantity
+  How Reproducible?:  Select one item -> click multiple times on increase quantity
 
   Heuristic:  A02 Speak the Users’ Language
 
@@ -376,7 +376,7 @@ o MG-Neg14
 
   Video Clip(s):  mg-neg14-imprint-unreachable.mp4
 
-  How Reproducible?:  open a section with a lot of content -> scroll down
+  How Reproducible?:  Open a section with a lot of content -> scroll down
 
   Heuristic:  A10 Help and Documentation
 
@@ -396,7 +396,10 @@ o MG-Neg15
 
   Video Clip(s):  mg-neg15-broken-html.mp4
 
-  How Reproducible?:  open shopping guide at the footer -> scroll down
+  How Reproducible?:  Open shopping guide at the footer -> scroll down
 
   Heuristic:  A10 Help and Documentation
+
+
+
 
