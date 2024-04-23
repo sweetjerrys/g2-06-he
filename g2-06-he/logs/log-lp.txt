@@ -39,7 +39,7 @@ o LP-Pos01
 
   Video Clip(s):  lp-pos01-easy-to-use-shopping-cart.mp4
 
-  How Reproducible?:  when using the shoppingcart
+  How Reproducible?:  When using the shoppingcart
 
 
 o LP-Pos03
@@ -48,13 +48,14 @@ o LP-Pos03
 
   Description:
 
-  You have the options between normal delivery to your home, express delivery,
-  delivery to a store near you where you can collect it and if the store already
-  has all your items you can collect them the same day. 
+  The user can choose between different delivery options.
+  Normal delivery, express delivery,
+  delivery to a store near by where you can then collect it.
+  If the store already has all your items you can collect them the same day. 
 
   Video Clip(s):  lp-pos02-shipment-options.mp4
 
-  How Reproducible?:  when buying something
+  How Reproducible?:  buy something
 
 
 o LP-Pos03
