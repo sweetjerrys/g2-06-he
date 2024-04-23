@@ -42,18 +42,25 @@ o MG-Pos01
   How Reproducible?:  open bershka.com on a fresh browser
 
 
+
+
+
 o MG-Pos02
 
   Title:  Going back returns correctly
 
   Description:
 
-  Going back from an item to the previous item list, sets the user at the previously shown position. Queue is not reloaded.
+  Going back from an item to the previous item list, sets the user at the previously shown position. 
+  Queue is not reloaded.
 
 
   Video Clip(s):  mg-pos02-back-in-place.mp4
 
   How Reproducible?:  from an item list select one item -> return to previous page
+
+
+
 
 
 o MG-Pos03
@@ -62,12 +69,16 @@ o MG-Pos03
 
   Description:
 
-  If the user deletes one item from their basket an option to undo is shown. The undo function restores the item into the basket
+  If the user deletes one item from their basket an option to undo is shown. 
+  The undo function restores the item into the basket
 
 
   Video Clip(s):  mg-pos03-undo-ok.mp4
 
   How Reproducible?:  place one item in the basket -> delete said item -> click undo
+
+
+
 
 
 o MG-Pos04
@@ -79,6 +90,7 @@ o MG-Pos04
   If the user wishes to change their cookie settings it is easily done in the footer. 
   Changing the cookie settings from there reloads the page with the correct content.
 
+
   Video Clip(s):  mg-pos04-cookie-settings.mp4
 
   How Reproducible?:  navigate to the footer -> open cookie settings and choose a different setting.
@@ -88,13 +100,18 @@ o MG-Pos04
 Negative Findings (Problems)
 -----------------
 
+
+
+
 o MG-Neg01
 
   Title:  "Remember settings" in wrong language
 
   Description:
 
-  When choosing country and language in the landing page, the text informing the user if he wants to save the selection is in Spanish. "Recordar mi selección" instead of the English version.
+  When choosing country and language in the landing page, the text informing the user if he wants to save the selection is in Spanish.
+  "Recordar mi selección" instead of the English version.
+
 
   Video Clip(s):  mg-neg01-wrong-language.mp4
 
@@ -103,19 +120,27 @@ o MG-Neg01
   Heuristic:  A02 Speak the Users' Language
 
 
+
+
+
 o MG-Neg02
 
   Title:  Low Contrast UI
 
   Description:
 
-  The color scheme of the design elements in conjunction with the title image does not have a strong contrast. Users could be unable to see the search bar.
+  The color scheme of the design elements in conjunction with the title image does not have a strong contrast.
+  Users could be unable to see the search bar.
+
 
   Video Clip(s):  mg-neg02-low-contrast.mp4
 
   How Reproducible?:  Open bershka.com -> choose "man"
 
   Heuristic:  
+
+
+
 
 
 
@@ -128,11 +153,15 @@ o MG-Neg03
   Two or more sentences describing the problem.
   Here is the second sentence. Here is a third sentence.
 
+
   Video Clip(s):  mg-neg03-misspelled.mp4
 
   How Reproducible?:  Type "pnts" in search bar
 
   Heuristic:  A05 Error Prevention
+
+
+
 
 
 o MG-Neg04
@@ -141,7 +170,9 @@ o MG-Neg04
 
   Description:
 
-  In an item page, pictures are scrolled upwards. If you reach the last one, scrolling upwards does not immediately reveal the item information.
+  In an item page, pictures are scrolled upwards. 
+  If you reach the last one, scrolling upwards does not immediately reveal the item information.
+
 
   Video Clip(s):  mg-neg04-last-picture.mp4
 
@@ -150,13 +181,18 @@ o MG-Neg04
   Heuristic:  A07 Flexibility and Efficiency of Use
 
 
+
+
+
 o MG-Neg05
 
   Title:  Accessibility button not recoverable
 
   Description:
 
-  If the user closes the accessibility button. It is not possible to reopen the options.
+  If the user closes the accessibility button. 
+  It is not possible to reopen the options.
+
 
   Video Clip(s):  mg-neg05-accessibility-gone.mp4
 
@@ -165,19 +201,27 @@ o MG-Neg05
   Heuristic:  A03 Reversible Actions
 
 
+
+
+
 o MG-Neg06
 
   Title:  UI shows wrong number of filtered items
 
   Description:
 
-  If the user chooses a filter but exits the window without confirming the selection. The upper right corner shows the wrong number of items.
+  If the user chooses a filter but exits the window without confirming the selection. 
+  The upper right corner shows the wrong number of items.
+
 
   Video Clip(s):  mg-neg06-filter-wrong.mp4
 
   How Reproducible?:  open filter selection -> choose filters -> exit without confirming
 
   Heuristic:  A06 Recognition Rather Than Recall
+
+
+
 
 
 o MG-Neg07
@@ -187,6 +231,8 @@ o MG-Neg07
   Description:
 
   If the user deletes two or more different items from their basket, undo only restores the last item.
+  This behavior may not meet user expectations for undo functionality.
+
 
   Video Clip(s):  mg-neg07-undo-not-ok.mp4
 
@@ -195,13 +241,18 @@ o MG-Neg07
   Heuristic:  A03 Reversible Actions
 
 
+
+
+
 o MG-Neg08
 
   Title:  UI shows no results but filter shows 347 results
 
   Description:
 
-  Under Man -> New items if the filter all is selected the UI shows no results. But the number on the left to the filter window shows 347 results
+  Under Man -> New items if the filter all is selected the UI shows no results. 
+  But the number on the left to the filter window shows 347 results
+
 
   Video Clip(s):  mg-neg08-no-results.mp4
 
@@ -210,13 +261,18 @@ o MG-Neg08
   Heuristic:  
 
 
+
+
+
 o MG-Neg09
 
   Title:  Unrelated Pictures
 
   Description:
 
-  Under an item section, like for example "shoes". The UI will also show unrelated pictures that are not clickable.
+  Under an item section, like for example "shoes". 
+  The UI will also show unrelated pictures that are not clickable.
+
 
   Video Clip(s):  mg-neg09-unrelated-picture.mp4
 
@@ -225,13 +281,17 @@ o MG-Neg09
   Heuristic:  A08 Aesthetic and Minimalist Design
 
 
+
+
+
 o MG-Neg10
 
   Title:  Reloading does not bring the accessibility button back
 
   Description:
 
-  If the user reloads the page, language and country selections reopen. However the previously closed accessibility button does not reappear.
+  If the user reloads the page, language and country selections reopen. 
+  However the previously closed accessibility button does not reappear.
 
 
   Video Clip(s):  mg-neg10-reloading-no-access.mp4
@@ -241,6 +301,9 @@ o MG-Neg10
   Heuristic:  A03 Reversible Actions
 
 
+
+
+
 o MG-Neg11
 
   Title:  Sale is not called the same everywhere
@@ -248,6 +311,7 @@ o MG-Neg11
   Description:
 
   The section for items on sale is called differently for women, men and teens.
+  This differentiation reflects targeted marketing strategies for each demographic.
 
 
   Video Clip(s):  mg-neg11-sale-language.mp4
@@ -257,14 +321,18 @@ o MG-Neg11
   Heuristic:  A04 Consistency
 
 
+
+
+
 o MG-Neg12
 
   Title:  Multiple items deleted
 
   Description:
 
-  If the user has multiples of one item in the basket, the delete button deletes all of them. User cannot choose to just delete one. 
-  Instead they would need to open the edit menu.
+  If the user has multiples of one item in the basket, the delete button deletes all of them. 
+  User cannot choose to just delete one. Instead they would need to open the edit menu.
+
 
   Video Clip(s):  mg-neg12-deletes-multiple.mp4
 
@@ -273,13 +341,18 @@ o MG-Neg12
   Heuristic:  A05 Error Prevention
 
 
+
+
+
 o MG-Neg13
 
   Title: Unintended page zoom
 
   Description:
 
-  When selecting the quantity of an item, multiple clicks trigger the page zoom. Clicking anywhere else does not trigger the page zoom.
+  When selecting the quantity of an item, multiple clicks trigger the page zoom. 
+  Clicking anywhere else does not trigger the page zoom.
+
 
   Video Clip(s):  mg-neg13-page-zoom.mp4
 
@@ -288,19 +361,27 @@ o MG-Neg13
   Heuristic:  A02 Speak the Users’ Language
 
 
+
+
+
 o MG-Neg14
 
   Title:  Imprint unreachable
 
   Description:
 
-  If the user tries to reach the imprint in a page with a lot of content the page keeps reloading more content. The user cannot reach the bottom unless they scroll through everything.
+  If the user tries to reach the imprint in a page with a lot of content the page keeps reloading more content. 
+  The user cannot reach the bottom unless they scroll through everything.
+
 
   Video Clip(s):  mg-neg14-imprint-unreachable.mp4
 
   How Reproducible?:  open a section with a lot of content -> scroll down
 
   Heuristic:  A10 Help and Documentation
+
+
+
 
 
 o MG-Neg15
@@ -310,6 +391,8 @@ o MG-Neg15
   Description:
 
   In the middle of the help portion of the website called shopping guide the content is not readable.
+  This issue may hinder users' ability to access important information.
+
 
   Video Clip(s):  mg-neg15-broken-html.mp4
 
