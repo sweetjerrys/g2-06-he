@@ -1,0 +1,349 @@
+
+Evaluation Log
+==============
+
+Web Site:  bershka.com
+
+Evaluator:  Luca Platter
+Age:  22
+Gender:  male
+Device:  Victus by HP Laptop
+OS and Version:  Windows 11 Home
+Screen Size:  16,1”
+Screen Resolution:  1920 x 1080
+Web Browser and Version:  Chrome
+Ad Blocker and Version:  Adblock Plus
+Internet Connection:  Magenta LAN
+Download Speed:  93 Mbit/s
+Screen Recording Software:  OBS Studio
+Recording Resolution:  1920 x 1080
+Date of Evaluation:  2024-03-29
+Time of Evaluation:  9:00 - 10:30
+
+
+
+
+
+Positive Findings
+-----------------
+
+o LP-Pos01
+
+  Title:  Easy to use shopping cart
+
+  Description:
+
+  The usage of the shopping cart feels really intuitive.
+  If you made a mistake by selecting the wrong pice or you
+  want a different size it is really easy to do so.
+
+  Video Clip(s):  lp-pos01-easy-to-use-shopping-cart.mp4
+
+  How Reproducible?:  when using the shoppingcart
+
+
+o LP-Pos03
+
+  Title:  Good shipment options 
+
+  Description:
+
+  You have the options between normal delivery to your home, express delivery,
+  delivery to a store near you where you can collect it and if the store already
+  has all your items you can collect them the same day. 
+
+  Video Clip(s):  lp-pos02-shipment-options.mp4
+
+  How Reproducible?:  when buying something
+
+
+o LP-Pos03
+
+  Title:  idea of get the look
+
+  Description:
+
+  The idea behind the get the look function is really good. You can see exactly how the style would look in action.
+
+  Video Clip(s):  lp-pos03-get-the-look.mp4
+
+  How Reproducible?:  using the get the look function
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o LP-Neg01
+
+  Title:  Har to find help
+
+  Description:
+
+ The help section and documentation are not easily accessible, requiring several clicks to
+ reach, which can frustrate users seeking quick help.
+
+  Video Clip(s):  lp-neg01-help-and-documentation.mp4
+
+  How Reproducible?:  always
+
+  Heuristic:  A10 Help and Documentation
+
+  Only When: Searching for help or documentations
+
+
+o LP-Neg02
+
+  Title: Inconsistent navigation
+
+  Description:
+
+  Sometimes if you click on an item the correct item is not appearing
+
+  Video Clip(s):  lp-neg02-inconsistent-navigation.mp4
+
+  How Reproducible?:  sometimes
+
+  Heuristic:   A04 Consistency
+
+  Only When: Navigating through various sections of the site
+
+
+o LP-Neg03
+
+  Title:  Get the look 
+
+  Description:
+
+  Sometimes if you use the get the look function there is an error because no part of the look is still available.
+
+  Video Clip(s):  lp-neg03-get-the-look.mp4
+
+  How Reproducible?:  somtimes 
+
+  Heuristic:  A09 GoodError Messages
+
+  Only When: using the get the look function
+
+
+o LP-Neg04
+
+  Title:  Use of non-standard terminology 
+
+  Description:
+
+  The website uses fashion-specific jargon and non-standard terminology which may not be familiar to all users, especially newcomers. For example "Mom Fit Jeans".
+
+  Video Clip(s):  lp-neg04-non-standard-terminology.mp4
+
+  How Reproducible?:  always
+
+  Heuristic:  A02 Speak the Users’ Language
+
+  Only When: Reading product descriptions or navigating product categories
+
+
+o LP-Neg05
+
+  Title:  Overloaded product pages 
+
+  Description:
+
+  Product pages contain excessive amounts of text, images, and interactive elements that can overwhelm the user.
+
+  Video Clip(s):  lp-neg05-overloaded-product-pages.mp4
+
+  How Reproducible?:  always
+
+  Heuristic:  A08 Aesthetic and Minimalist Design
+
+  Only When: Viewing product details
+
+
+o LP-Neg06
+
+  Title:  Complicated Checkout Process 
+
+  Description:
+
+  The checkout process on Bershka.com is overly complicated, involving multiple steps that are not clearly explained.
+
+  Video Clip(s):  lp-neg06-complicated-checkout-process.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A07 Flexibility and Efficiency of Use
+
+  Only When: Completing a purchase
+
+
+o LP-Neg07
+
+  Title:  Limited search functionality
+
+  Description:
+
+  The search functionality on the site is limited, offering few filters to refine results, which can make it difficult for users to find specific products. Cant fillter for color for example.
+
+  Video Clip(s):  lp-neg01-limited-search.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A06 Recognition Rather Than Recall
+
+  Only When: Using the search feature
+
+
+o LP-Neg08
+
+  Title:  Cluttered Visual Design
+
+  Description:
+
+  The visual design of Bershka.com is cluttered, with excessive animations, varying fonts, and a lack of whitespace. 
+  This can overwhelm users and make the site difficult to navigate.
+
+  Video Clip(s):  lp-neg08-cluttered-visual-design.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A08 Aesthetic and Minimalist Design
+
+  Only When: Browsing the site
+
+
+o LP-Neg09
+
+  Title: Not returning
+
+  Description:
+
+  When pressing the Bershka Logo while on the startside you are not returning to the top of the page
+  
+  Video Clip(s):  lp-neg09-returning-to-start.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A04 Consistency 
+
+  Only When: Browsing the mainsite
+
+
+o LP-Neg10
+
+  Title:  Zoom button apperance
+
+  Description:
+
+  If you hover above the picture of a product the zoom (erweitert) button appears which is not looking professional
+  
+  Video Clip(s):  lp-neg10-zoom-button-apperance.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A08 Aesthetic and Minimalist Design
+
+  Only When: viewing product
+
+
+o LP-Neg11
+
+  Title:  Zoom button buggy
+
+  Description:
+
+  If you hover above the picture of a product and scrole the zoom button freezes in place
+  
+  Video Clip(s):  lp-neg11-zoom-button-bugging.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A08 Aesthetic and Minimalist Design
+
+  Only When: viewing product
+
+
+o LP-Neg12
+
+  Title:  Poor error message 
+
+  Description:
+
+  If you want to add something to you cart but forget to add the size the error message is really poor.
+  
+  Video Clip(s):  lp-neg12-cart-error.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A09 GoodError Messages
+
+  Only When: adding a pice to the shopping cart
+
+ 
+o LP-Neg13
+
+  Title:  Reversing the deletion of item 
+
+  Description:
+
+  If you want to reverse the deletion of an item in your shopping cart it's not working
+  
+  Video Clip(s):  lp-neg13-reversing-deletion.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A03 Reversible Actions
+
+  Only When: when editing the shoppingcart
+
+
+o LP-Neg14
+
+  Title:  Forced account creation 
+
+  Description:
+
+  if you want to buy something you have to create an account
+  
+  Video Clip(s):  lp-neg14-forced-acc-creation.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A07 Flexibility and Efficiency of Use
+
+  Only When: when checking out
+
+
+o LP-Neg15
+
+  Title:  Limited payment options
+
+  Description:
+
+  there are limited payment options
+  
+  Video Clip(s):  lp-neg15-limited-payment.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A07 Flexibility and Efficiency of Use
+
+  Only When: when checking out
+
+
+o LP-Neg16
+
+  Title:  Difficult account deletion
+
+  Description:
+
+  its not simple to delet a account
+  
+  Video Clip(s):  lp-neg16-account-deletion.mp4
+
+  How Reproducible?:  always
+
+  Heuristic: A03 Reversible Actions
+
+  Only When: when wanting to delete account
+

@@ -1,0 +1,415 @@
+
+Evaluation Log
+==============
+
+Web Site:  bershka.com
+
+Evaluator:  Mykola Litvinov
+Age:  21
+Gender:  male
+Device:  Galaxy S21 5G
+OS and Version:  Android 14
+Screen Size:  6.2"
+Screen Resolution:  1080 x 2400
+Web Browser and Version:  Samsung Internet Browser
+Ad Blocker and Version:  AdBlocker for Samsung Internet 3.
+Internet Connection:  HoT LTE
+Download Speed:  150 mbps
+Screen Recording Software:  built-in screen recording
+Recording Resolution:  1080 x 2400
+Date of Evaluation:  2024-03-29
+Time of Evaluation:  9:00 - 10:30
+
+
+
+
+
+Positive Findings
+-----------------
+
+o ML-Pos01
+
+  Title:  Sort filter
+
+  Description:
+
+  Sort or show specific subspecies of products.
+
+  Video Clip(s):  ml-pos01-sort-filter.mp4
+
+  How Reproducible?:  products section -> click on filter button on the top right
+
+
+o ML-Pos02
+
+  Title:  Returning to the correct search position
+
+  Description:
+
+  When selecting a product and opening it, we can continue further search from the same place.
+
+  Video Clip(s):  ml-pos02-correct-item-return-position.mp4
+
+  How Reproducible?:  Options → choose a product → make a return
+
+
+o ML-Pos03
+
+  Title:  Selecting the product display option
+
+  Description:
+
+  Switch the product grid: show 1 object in parallel 2 or 4 at once.
+
+  Video Clip(s):  ml-pos03-viewing-options.mp4
+
+  How Reproducible?:  Options → product type → choose by clicking on the squares on the top left
+
+
+
+Negative Findings (Problems)
+-----------------
+
+o ML-Neg01
+
+  Title:  Cannot change the language during cookie authorization
+
+  Description:
+
+  We cannot change the language during cookie authorization.
+
+  Video Clip(s):  ml-neg01-cookie-language-no-change.mp4
+
+  How Reproducible?:  Fresh access to the site without cookies
+
+  Heuristic:  A02 Speak the Users’ Language
+
+  Only When:  Fresh access to the site without cookies
+
+
+o ML-Neg02
+
+  Title:  Glitch with the language in the cookie settings
+
+  Description:
+
+  When changing the language, there is a glitch with the language in the cookie settings.
+
+  Video Clip(s):  ml-neg02-light-mode-language-bug.mp4
+
+  How Reproducible?:  Change the brightness theme → look at the language status on the cookie settings on the site
+
+  Heuristic:  A03 Reversible Actions
+
+  Only When:  Fresh access to the site without cookies
+
+
+o ML-Neg03
+
+  Title:  The display of branches has not been finalized
+
+  Description:
+
+  The icons of the branches are missing. There are some missing while others 
+  have been presented.
+
+  Video Clip(s):  ml-neg03-error-store-icon.mp4
+
+  How Reproducible?:  Branches selection
+
+  Heuristic:  A04 Consistency
+
+  Only When:  A branch of the store is selected
+
+
+o ML-Neg04
+
+  Title:  You can remove the titles by scrolling
+
+  Description:
+
+  Icons of all branches are not displayed.
+
+
+  Video Clip(s):  ml-neg04-options-scroll-error.mp4
+
+  How Reproducible?:  Options → swipe to the right or left
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  Only When:  In the selection of clothing options
+
+
+o ML-Neg05
+
+  Title:  The site crashed
+
+  Description:
+
+  The site crashes if you quickly restart and click on the options
+
+
+  Video Clip(s):  ml-neg05-crash.mp4
+
+  How Reproducible?:  Reload → Options
+
+  Heuristic:  A01 Feedback
+
+  Only When:  Reload the page frequently and click quickly
+
+
+o ML-Neg06
+
+  Title:  Grid setting will not be saved
+
+  Description:
+
+  If we refresh the page, the display grid setting will not be saved
+
+  Video Clip(s):  ml-neg06-view-not-saved.mp4
+
+  How Reproducible?:  Options → product type → choose the squares on the top left → refresh the page
+
+  Heuristic:  A06 Recognition Rather Than Recall
+
+  Only When:  Refresh the page
+
+
+o ML-Neg07
+
+  Title:  Wrong sorting filter
+
+  Description:
+
+  When selecting the sorting filter, the wrong number of products is displayed
+
+
+  Video Clip(s):  ml-neg07-sorting-error.mp4
+
+  How Reproducible?:  Options → product type → click on filter button on the top right
+
+  Heuristic:  A04 Consistency
+
+  Only When:  A sorting filter is used
+
+o ML-Neg08
+
+  Title:  Throw back
+
+  Description:
+
+  While scrolling down, glitches occur and you are thrown back
+  
+  Video Clip(s):  ml-neg08-twitchy-scrolling.mp4
+
+  How Reproducible?:  Options → product type → scroll to the bottom
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  Only When:  Scroll to the bottom
+
+
+o ML-Neg09
+
+  Title:  Not clear filter options extension
+
+  Description:
+
+  It is not clear that there are any other filter options for showing.
+
+  Video Clip(s):  ml-neg09-no-hints-additional-options.mp4
+
+  How Reproducible?:  Options → product type → click on filter button on the top right
+
+  Heuristic:  A04 Consistency
+
+  Only When:  on filter button
+
+
+o ML-Neg10
+
+  Title:  Long loading of color switching
+
+  Description:
+
+  Every time a different color is selected for a product.
+  These options take a very long time to reload
+
+  Video Clip(s):  ml-neg10-long-loading-each-color.mp4
+
+  How Reproducible?:  Options → product type → click on product
+
+  Heuristic:  A04 Consistency
+
+  Only When:  Change the color of product
+
+
+o ML-Neg11
+
+  Title:  Favorites buggy
+
+  Description:
+
+  When trying to add a product to favorites, the animation is buggy and does not always display a red heart, or displays it late
+
+  Video Clip(s):  ml-neg11-saving-buggy.mp4
+
+  How Reproducible?:  Options → product type → click on product → add to favorites 
+
+  Heuristic:  A04 Consistency
+
+  Only When:  Adding to favorites 
+
+
+o ML-Neg12
+
+  Title:  Unexpected removal of favorites
+
+  Description:
+
+  When sending a product to the shopping cart, a person does not always want to delete this product from the selected sheet
+
+  Video Clip(s):  ml-neg12-removed-favorites.mp4
+
+  How Reproducible?:  Options → product type → click on favorites → move to basket
+
+  Heuristic:  A04 Consistency
+
+  Only When:  Move to basket
+
+
+o ML-Neg13
+
+  Title:  Incorrect search
+
+  Description:
+
+  When searching for a query, the algorithm offers something completely different from what was written in the search lines
+
+  Video Clip(s):  ml-neg13-incorrect-search.mp4
+
+  How Reproducible?:  Options → Search → write "men"
+
+  Heuristic:  A04 Consistency
+
+  Only When:  Searching
+
+
+o ML-Neg14
+
+  Title:  Fast scrolling buggy
+
+  Description:
+
+  When scrolling to the very bottom, it will slowly sink, so at a random moment the user will be thrown back
+
+  Video Clip(s):  ml-neg14-fast-scrolling-buggy.mp4
+
+  How Reproducible?:  Options → product type → fast scroll to the bottom
+
+  Heuristic:  A04 Consistency
+
+  Only When:  fast scroll
+
+
+o ML-Neg15
+
+  Title:  Сolor filters error
+
+  Description:
+
+  Products of the same color are filtered in different colors
+
+  Video Clip(s):  ml-neg15-wrong-colors.mp4
+
+  How Reproducible?:  Options → product type → click on color filter on the bottom
+
+  Heuristic:  A02 Speak the Users’ Language
+
+  Only When:  Сolor filter 
+
+
+o ML-Neg16
+
+  Title:  Unnecessary filter extension
+
+  Description:
+
+  The extension button does not affect anything in some filters
+
+  Video Clip(s):  ml-neg16-advanced-viewing-unnecessary.mp4
+
+  How Reproducible?:  Options → product type → click on filter button on the top right
+
+  Heuristic:  A07 Flexibility and Efficiency of Use
+
+  Only When:  on filter button click on advanced filter view
+
+
+o ML-Neg17
+
+  Title:  Twitchy scrolling
+
+  Description:
+
+  When scrolling the page slowly, jerky shifts occur
+
+  Video Clip(s):  ml-neg17-scroll-error.mp4
+
+  How Reproducible?:  slowly scroll through the main page
+
+  Heuristic:  A04 Consistency
+
+  Only When:  scroll through the main page
+
+
+o ML-Neg18
+
+  Title:  Selected language is not displayed
+
+  Description:
+
+  The currently selected language is not displayed.
+
+  Video Clip(s):  ml-neg18-error-displaying-selected-language.mp4
+
+  How Reproducible?:  Scroll to the bottom → Click on the language icon
+
+  Heuristic:  A04 Consistency
+
+  Only When:  Checks which language is selected
+
+
+o ML-Neg19
+
+  Title:  Different cover
+
+  Description:
+
+  The same product has different covers at different times
+
+  Video Clip(s):  ml-neg19-different-cover.mp4
+
+  How Reproducible?:  Options → New
+
+  Heuristic:  A04 Consistency
+
+  Only When:  Search for the same products through different options
+
+
+o ML-Neg20
+
+  Title:  Menu duplication
+
+  Description:
+
+  The number and objects differ in Jeckets and Jeckets → Jeckets.
+
+  Video Clip(s):  ml-neg20-menu-duplication-error.mp4
+
+  How Reproducible?:  Options → scroll to the bottom → You might be interested in → Jeckets 
+
+  Heuristic:  A04 Consistency
+
+  Only When:  use "You might be interested in" menu 
+
