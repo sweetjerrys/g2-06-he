@@ -12,7 +12,7 @@ OS and Version:  Android 14
 Screen Size:  6.2"
 Screen Resolution:  1080 x 2400
 Web Browser and Version:  Samsung Internet Browser
-Ad Blocker and Version:  AdBlocker for Samsung Internet 3.
+Ad Blocker and Version:  AdBlocker for Samsung Internet 3.4.5
 Internet Connection:  HoT LTE
 Download Speed:  150 mbps
 Screen Recording Software:  built-in screen recording
@@ -34,10 +34,15 @@ o ML-Pos01
   Description:
 
   Sort or show specific subspecies of products.
+  It simplifies the search for goods.
 
+  
   Video Clip(s):  ml-pos01-sort-filter.mp4
 
-  How Reproducible?:  products section -> click on filter button on the top right
+  How Reproducible?:  Products section -> click on filter button on the top right
+
+
+
 
 
 o ML-Pos02
@@ -46,11 +51,16 @@ o ML-Pos02
 
   Description:
 
-  When selecting a product and opening it, we can continue further search from the same place.
+  When selecting a product and opening it, users can continue their search from the same place.
+  This allows for a seamless browsing experience without losing one's position.
 
+  
   Video Clip(s):  ml-pos02-correct-item-return-position.mp4
 
   How Reproducible?:  Options → choose a product → make a return
+
+
+
 
 
 o ML-Pos03
@@ -60,7 +70,9 @@ o ML-Pos03
   Description:
 
   Switch the product grid: show 1 object in parallel 2 or 4 at once.
+  This makes it easier to search for the product.
 
+  
   Video Clip(s):  ml-pos03-viewing-options.mp4
 
   How Reproducible?:  Options → product type → choose by clicking on the squares on the top left
@@ -77,7 +89,9 @@ o ML-Neg01
   Description:
 
   We cannot change the language during cookie authorization.
+  This limitation may affect users' ability to set their preferred language before proceeding.
 
+  
   Video Clip(s):  ml-neg01-cookie-language-no-change.mp4
 
   How Reproducible?:  Fresh access to the site without cookies
@@ -87,6 +101,9 @@ o ML-Neg01
   Only When:  Fresh access to the site without cookies
 
 
+
+
+
 o ML-Neg02
 
   Title:  Glitch with the language in the cookie settings
@@ -94,7 +111,9 @@ o ML-Neg02
   Description:
 
   When changing the language, there is a glitch with the language in the cookie settings.
+  This inconsistency lead to confusion in language preferences.
 
+  
   Video Clip(s):  ml-neg02-light-mode-language-bug.mp4
 
   How Reproducible?:  Change the brightness theme → look at the language status on the cookie settings on the site
@@ -104,15 +123,19 @@ o ML-Neg02
   Only When:  Fresh access to the site without cookies
 
 
+
+
+
 o ML-Neg03
 
   Title:  The display of branches has not been finalized
 
   Description:
 
-  The icons of the branches are missing. There are some missing while others 
-  have been presented.
+  The icons of the branches are missing. 
+  There are some missing while others have been presented.
 
+  
   Video Clip(s):  ml-neg03-error-store-icon.mp4
 
   How Reproducible?:  Branches selection
@@ -122,15 +145,20 @@ o ML-Neg03
   Only When:  A branch of the store is selected
 
 
+
+
+
 o ML-Neg04
 
   Title:  You can remove the titles by scrolling
 
   Description:
 
-  Icons of all branches are not displayed.
+  Icons of all branches are not displayed. 
+  The user may think that these stores are unavailable.
 
 
+  
   Video Clip(s):  ml-neg04-options-scroll-error.mp4
 
   How Reproducible?:  Options → swipe to the right or left
@@ -140,15 +168,20 @@ o ML-Neg04
   Only When:  In the selection of clothing options
 
 
+
+
+
 o ML-Neg05
 
   Title:  The site crashed
 
   Description:
 
-  The site crashes if you quickly restart and click on the options
+  The site crashes if you quickly restart and click on the options.
+  This results a potential issue with the site's stability.
 
 
+  
   Video Clip(s):  ml-neg05-crash.mp4
 
   How Reproducible?:  Reload → Options
@@ -158,14 +191,19 @@ o ML-Neg05
   Only When:  Reload the page frequently and click quickly
 
 
+
+
+
 o ML-Neg06
 
   Title:  Grid setting will not be saved
 
   Description:
 
-  If we refresh the page, the display grid setting will not be saved
+  If we refresh the page, the display grid setting will not be saved.
+  This results in users needing to reset their preferred display grid each time they refresh the page.
 
+  
   Video Clip(s):  ml-neg06-view-not-saved.mp4
 
   How Reproducible?:  Options → product type → choose the squares on the top left → refresh the page
@@ -175,15 +213,20 @@ o ML-Neg06
   Only When:  Refresh the page
 
 
+
+
+
 o ML-Neg07
 
   Title:  Wrong sorting filter
 
   Description:
 
-  When selecting the sorting filter, the wrong number of products is displayed
+  When selecting the sorting filter, the wrong number of products is displayed.
+  This bug may confuse users about the actual quantity of products available.
 
 
+  
   Video Clip(s):  ml-neg07-sorting-error.mp4
 
   How Reproducible?:  Options → product type → click on filter button on the top right
@@ -192,13 +235,18 @@ o ML-Neg07
 
   Only When:  A sorting filter is used
 
+
+
+
 o ML-Neg08
 
   Title:  Throw back
 
   Description:
 
-  While scrolling down, glitches occur and you are thrown back
+  While scrolling down, glitches occur.
+  Therefore users are unexpectedly thrown back.
+  
   
   Video Clip(s):  ml-neg08-twitchy-scrolling.mp4
 
@@ -209,6 +257,9 @@ o ML-Neg08
   Only When:  Scroll to the bottom
 
 
+
+
+
 o ML-Neg09
 
   Title:  Not clear filter options extension
@@ -216,14 +267,19 @@ o ML-Neg09
   Description:
 
   It is not clear that there are any other filter options for showing.
+  This lack of clarity may result in users overlooking available filtering choices.
 
+  
   Video Clip(s):  ml-neg09-no-hints-additional-options.mp4
 
   How Reproducible?:  Options → product type → click on filter button on the top right
 
   Heuristic:  A04 Consistency
 
-  Only When:  on filter button
+  Only When:  On filter button
+
+
+
 
 
 o ML-Neg10
@@ -233,8 +289,9 @@ o ML-Neg10
   Description:
 
   Every time a different color is selected for a product.
-  These options take a very long time to reload
+  These options take a very long time to reload.
 
+  
   Video Clip(s):  ml-neg10-long-loading-each-color.mp4
 
   How Reproducible?:  Options → product type → click on product
@@ -244,14 +301,19 @@ o ML-Neg10
   Only When:  Change the color of product
 
 
+
+
+
 o ML-Neg11
 
   Title:  Favorites buggy
 
   Description:
 
-  When trying to add a product to favorites, the animation is buggy and does not always display a red heart, or displays it late
+  When trying to add a product to favorites, the animation is buggy and does not always display a red heart.
+  Sometimes, it appears late or fails to appear at all.
 
+  
   Video Clip(s):  ml-neg11-saving-buggy.mp4
 
   How Reproducible?:  Options → product type → click on product → add to favorites 
@@ -261,14 +323,19 @@ o ML-Neg11
   Only When:  Adding to favorites 
 
 
+
+
+
 o ML-Neg12
 
   Title:  Unexpected removal of favorites
 
   Description:
 
-  When sending a product to the shopping cart, a person does not always want to delete this product from the selected sheet
+  When adding a product to the shopping cart, a person may not always want to remove it from their selected list.
+  Because often people want to keep some things on their favorites list.
 
+  
   Video Clip(s):  ml-neg12-removed-favorites.mp4
 
   How Reproducible?:  Options → product type → click on favorites → move to basket
@@ -278,14 +345,19 @@ o ML-Neg12
   Only When:  Move to basket
 
 
+
+
+
 o ML-Neg13
 
   Title:  Incorrect search
 
   Description:
 
-  When searching for a query, the algorithm offers something completely different from what was written in the search lines
+  When searching for a query, the algorithm offers something completely different.
+  It deviates from what was written in the search lines.
 
+  
   Video Clip(s):  ml-neg13-incorrect-search.mp4
 
   How Reproducible?:  Options → Search → write "men"
@@ -295,21 +367,29 @@ o ML-Neg13
   Only When:  Searching
 
 
+
+
+
 o ML-Neg14
 
   Title:  Fast scrolling buggy
 
   Description:
 
-  When scrolling to the very bottom, it will slowly sink, so at a random moment the user will be thrown back
+  When scrolling to the very bottom, it will slowly sink.
+  So at a random moment the user will be thrown back.
 
+  
   Video Clip(s):  ml-neg14-fast-scrolling-buggy.mp4
 
   How Reproducible?:  Options → product type → fast scroll to the bottom
 
   Heuristic:  A04 Consistency
 
-  Only When:  fast scroll
+  Only When:  Fast scroll
+
+
+
 
 
 o ML-Neg15
@@ -318,8 +398,10 @@ o ML-Neg15
 
   Description:
 
-  Products of the same color are filtered in different colors
+  Products of the same color are filtered into different colors.
+  This results in a divergence from the original color grouping.
 
+  
   Video Clip(s):  ml-neg15-wrong-colors.mp4
 
   How Reproducible?:  Options → product type → click on color filter on the bottom
@@ -329,21 +411,29 @@ o ML-Neg15
   Only When:  Сolor filter 
 
 
+
+
+
 o ML-Neg16
 
   Title:  Unnecessary filter extension
 
   Description:
 
-  The extension button does not affect anything in some filters
+  The extension button doesn't have any effect on certain filters.
+  This discrepancy leads to inconsistent behavior.
 
+  
   Video Clip(s):  ml-neg16-advanced-viewing-unnecessary.mp4
 
   How Reproducible?:  Options → product type → click on filter button on the top right
 
   Heuristic:  A07 Flexibility and Efficiency of Use
 
-  Only When:  on filter button click on advanced filter view
+  Only When:  On filter button click on advanced filter view
+
+
+
 
 
 o ML-Neg17
@@ -352,8 +442,10 @@ o ML-Neg17
 
   Description:
 
-  When scrolling the page slowly, jerky shifts occur
+  When scrolling the page slowly, jerky shifts occur.
+  These sudden movements disrupt the smooth scrolling experience.
 
+  
   Video Clip(s):  ml-neg17-scroll-error.mp4
 
   How Reproducible?:  slowly scroll through the main page
@@ -363,6 +455,9 @@ o ML-Neg17
   Only When:  scroll through the main page
 
 
+
+
+
 o ML-Neg18
 
   Title:  Selected language is not displayed
@@ -370,7 +465,9 @@ o ML-Neg18
   Description:
 
   The currently selected language is not displayed.
+  This absence leads to confusion regarding the active language.
 
+  
   Video Clip(s):  ml-neg18-error-displaying-selected-language.mp4
 
   How Reproducible?:  Scroll to the bottom → Click on the language icon
@@ -380,14 +477,19 @@ o ML-Neg18
   Only When:  Checks which language is selected
 
 
+
+
+
 o ML-Neg19
 
   Title:  Different cover
 
   Description:
 
-  The same product has different covers at different times
+  The same product has different covers at different times.
+  This inconsistency may cause confusion among consumers.
 
+  
   Video Clip(s):  ml-neg19-different-cover.mp4
 
   How Reproducible?:  Options → New
@@ -397,19 +499,27 @@ o ML-Neg19
   Only When:  Search for the same products through different options
 
 
+
+
+
 o ML-Neg20
 
   Title:  Menu duplication
 
   Description:
 
-  The number and objects differ in Jeckets and Jeckets → Jeckets.
+  The number and objects differ in Jackets and Jackets → Jackets.
+  This inconsistency may cause confusion among consumers.
 
+  
   Video Clip(s):  ml-neg20-menu-duplication-error.mp4
 
   How Reproducible?:  Options → scroll to the bottom → You might be interested in → Jeckets 
 
   Heuristic:  A04 Consistency
 
-  Only When:  use "You might be interested in" menu 
+  Only When:  Use "You might be interested in" menu 
+
+
+
 
