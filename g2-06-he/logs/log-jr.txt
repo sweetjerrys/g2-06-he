@@ -2,7 +2,7 @@
 Evaluation Log
 ==============
 
-Web Site: bershka.com 
+Web Site:  bershka.com 
 
 Evaluator:  Jeremia Ruthofer
 Age:  25
@@ -29,43 +29,53 @@ Positive Findings
 
 o JR-Pos01
 
-  Title: Hotline information
+  Title:  Hotline information
 
   Description:
 
-  It's easy to see, when the hotline is available. There is no need for the user to check,
-  by trying if someones available.
+  It's easy to see, when the hotline is available. 
+  There is no need for the user to check, by trying if someones available.
+
 
   Video Clip(s):  jr-pos01-hotline-information.mp4
 
   How Reproducible?:  Scroll to the bottom of the website
 
 
+
+
+
 o JR-Pos02
 
-  Title: Good UI
+  Title:  Good UI
 
   Description:
 
-  It is easy to navigate through a category. The overall UI is good and easy to handle.
+  It is easy to navigate through a category.
+  The overall UI is good and easy to handle.
+
 
   Video Clip(s):  jr-pos02-good-ui.mp4
 
-  How Reproducible?: Naviagte through a category
+  How Reproducible?:  Naviagte through a category
+
+
+
 
 
 o JR-Pos03
 
-  Title: Personalising Items
+  Title:  Personalising Items
 
   Description:
 
-  The user is able to personalise items with stickers and text. Also a combination of both is 
-  posssible.
+  The user is able to personalise items with stickers and text. 
+  Also a combination of both is posssible.
+
 
   Video Clip(s):  jr-pos03-personalising-items.mp4
 
-  How Reproducible?: Select men -> customisation
+  How Reproducible?:  Select men -> customisation
 
 
 
@@ -74,223 +84,265 @@ Negative Findings (Problems)
 
 o JR-Neg01
 
-  Title: Mixied languages
+  Title:  Mixied languages
 
   Description: 
 
-  The cookie window is in german but the rest of the site in a different language.
+  The cookie window is in German, but the rest of the site is in a different language.
+  This inconsistency in language will confuse users and disrupt their browsing experience.
 
-  Video Clip(s): jr-neg01-mixed-languages.mp4
 
-  How Reproducible?: Visiting the website with no cookies.
+  Video Clip(s):  jr-neg01-mixed-languages.mp4
 
-  Heuristic: Consistency A04
+  How Reproducible?:  Visiting the website with no cookies.
 
-  Only When: Visiting the site with no cookies and direct access (not googled).
+  Heuristic:  A04 Consistency 
+
+  Only When:  Visiting the site with no cookies and direct access (not googled).
+
+
+
 
 
 o JR-Neg02
 
-  Title: Wrong language
+  Title:  Wrong language
 
   Description: 
 
   The first time the user visits this site, the language is wrong.
   Neither English nor the location depending.
 
-  Video Clip(s): jr-neg02-wrong-language.mp4
 
-  How Reproducible?: Visiting the site with no cookies.
+  Video Clip(s):  jr-neg02-wrong-language.mp4
 
-  Heuristic: Speak the Users' Language A02
+  How Reproducible?:  Visiting the site with no cookies.
 
-  Only When: Visiting the site with no cookies and direct access (not googled).
+  Heuristic:  A02 Speak the Users' Language 
+
+  Only When:  Visiting the site with no cookies and direct access (not googled).
+
+
+
 
 
 o JR-Neg03
 
-  Title: Different language
+  Title:  Different language
 
   Description: 
 
-  When selecting the language of the website, the language of the accesibility
-  menu stays the same. The translation is only done for the page but not for 
-  the accesibility menu.
+  When selecting the language of the website, the language of the accesibility menu stays the same. 
+  The translation is only done for the page but not for the accesibility menu.
 
-  Video Clip(s): jr-neg03-different-language.mp4
 
-  How Reproducible?: Selecting a Language for the Accsibility Configuration Menu
+  Video Clip(s):  jr-neg03-different-language.mp4
+
+  How Reproducible?:  Selecting a Language for the Accsibility Configuration Menu
   before selecting the website language.
 
-  Heuristic: Consistency A04
+  Heuristic:  A04 Consistency 
 
-  Only When: Visiting the site with no cookies and direct access (not googled).
+  Only When:  Visiting the site with no cookies and direct access (not googled).
+
+
+
 
 
 o JR-Neg04
 
-  Title: No reconfigure
+  Title:  No reconfigure
 
   Description:
 
-  Once the user presses the X on the accesibility button, 
-  there seems to be no way to open it again. If the user closes it by mistake, 
-  it's not possible to open the Accsibility Configuration menu again. 
+  Once the user presses the X on the accesibility button, there seems to be no way to open it again.
+  If the user closes it by mistake, it's not possible to open the Accsibility Configuration menu again. 
 
 
   Video Clip(s):  jr-neg01-no-reconfigure.mp4
 
-  How Reproducible?: Press the X on accesibility button.
+  How Reproducible?:  Press the X on accesibility button.
 
-  Heuristic:  Reversible Action A04 
+  Heuristic:  A04 Reversible Action
 
   Only When:  Pressing the X Button
 
 
+
+
+
 o JR-Neg05
 
-  Title: Jumping button
+  Title:  Jumping button
 
   Description: 
 
-  The button for the accesibility menu jumps to the right, if pressed on the left while 
-  the "drag" mouse icon is shown. It does not occur every time.
+  The button for the accesibility menu jumps to the right, if pressed on the left while the "drag" mouse icon is shown. 
+  It does not occur every time.
 
-  Video Clip(s): jr-neg05-jumping-buttons.mp4
 
-  How Reproducible?: Click the button on the left when the drag mouse icon is shown.
+  Video Clip(s):  jr-neg05-jumping-buttons.mp4
 
-  Heuristic: Error Prevention A05
+  How Reproducible?:  Click the button on the left when the drag mouse icon is shown.
 
-  Only When: Clicking the buttom on left side when "drag" mouse icon is shown.
+  Heuristic:  A05 Error Prevention 
+
+  Only When:  Clicking the buttom on left side when "drag" mouse icon is shown.
+
+
+
 
 
 o JR-Neg06
 
-  Title: Unintended scroll
+  Title:  Unintended scroll
 
   Description: 
   
   The accsibility menu scrolls to the middle, when selecting different languages.
   If already in the middle of the scroll view, it does not change the positioning.
+
   
-  Video Clip(s): jr-neg06-unintended-scroll.mp4
+  Video Clip(s):  jr-neg06-unintended-scroll.mp4
 
-  How Reproducible?: Select a different language in the accsibility menu
+  How Reproducible?:  Select a different language in the accsibility menu
 
-  Heuristic: Error Prevention A05
+  Heuristic:  A05 Error Prevention 
 
-  Only When: The window is not in in the middle of the scrollview.
+  Only When:  The window is not in in the middle of the scrollview.
+
+
+
 
 
 o JR-Neg07
 
-  Title: Too many clicks
+  Title:  Too many clicks
 
   Description: 
 
   The users needs to click to many buttons to get to the personalise view.
-  And every time the user wants to switch to another personalise view, 
-  this has to be done again.
+  And every time the user wants to switch to another personalise view, this has to be done again.
+
   
-  Video Clip(s): jr-neg07-too-many-clicks.mp4
+  Video Clip(s):  jr-neg07-too-many-clicks.mp4
 
-  How Reproducible?: Use the personalise button on selected item.
+  How Reproducible?:  Use the personalise button on selected item.
 
-  Heuristic: Flexibility and Efficient Use A07
+  Heuristic:  A07 Flexibility and Efficient Use 
 
-  Only When: Customisation -> select Item -> Personalise.
+  Only When:  Customisation -> select Item -> Personalise.
+
+
+
 
 
 o JR-Neg08
 
-  Title: Headline cutoff
+  Title:  Headline cutoff
 
   Description: 
 
-  When selecting a button in Bershka Printshop the site is scrolled down a bit 
-  to far, so the headline gets cut off. This buttons scroll down the side and 
-  if they are used each headline is cut off.
+  When selecting a button in Bershka Printshop the site is scrolled down a bit to far, so the headline gets cut off. 
+  This buttons scroll down the side and if they are used each headline is cut off.
+
   
-  Video Clip(s): jr-neg08-headline-cutoff.mp4
+  Video Clip(s):  jr-neg08-headline-cutoff.mp4
 
-  How Reproducible?: select Men -> Bershka Printshop -> click one of the three buttons
+  How Reproducible?:  Select Men -> Bershka Printshop -> click one of the three buttons
 
-  Heuristic: Error Prevention A05
+  Heuristic:  A05 Error Prevention 
 
-  Only When: Clicking one of the three buttons at the bottom.
+  Only When:  Clicking one of the three buttons at the bottom.
+
+
+
 
 
 o JR-Neg09
 
-  Title: Long loading
+  Title:  Long loading
 
   Description: 
 
   The website takes some time to load images and animations.
-  When a different category is selected it takes the longes to load the pictures
-  of the items. 
+  When a different category is selected it takes the longes to load the pictures of the items. 
+
   
-  Video Clip(s): jr-neg09-long-loading.mp4
+  Video Clip(s):  jr-neg09-long-loading.mp4
 
-  How Reproducible?: select men
+  How Reproducible?:  select men
 
-  Heuristic: Flexibility and Efficient Use A07
+  Heuristic:  A07 Flexibility and Efficient Use 
 
-  Only When: selecting a category
+  Only When:  selecting a category
+
+
+
 
 
 o JR-Neg10
 
-  Title: No mania
+  Title:  No mania
 
   Description: 
 
-  The subcategory "Hello Kitty Mania" is empty. It shows two windows which look like
-  the content is loading, but nothing happens.
+  The subcategory "Hello Kitty Mania" is empty. 
+  It shows two windows which look like the content is loading, but nothing happens.
+
   
-  Video Clip(s): jr-neg10-no-mania.mp4
+  Video Clip(s):  jr-neg10-no-mania.mp4
 
-  How Reproducible?: Toggle Teens -> select "Hello Kitty Mania"
+  How Reproducible?:  Toggle Teens -> select "Hello Kitty Mania"
 
-  Heuristic: Flexibility and Efficient Use A07
+  Heuristic:  A07 Flexibility and Efficient Use 
 
-  Only When: Selecting "Hello Kitty Mania"
+  Only When:  Selecting "Hello Kitty Mania"
+
+
+
 
 
 o JR-Neg11
 
-  Title: No effect button
+  Title:  No effect button
 
   Description: 
  
-  The button for how many items are shown in a row, with the number two on it,
-  does not what it should do. The number of displayed items in a row is either smaller
-  or bigger then the selected number. 
+  The button for how many items are shown in a row, with the number two on it, does not what it should do. 
+  The number of displayed items in a row is either smaller or bigger then the selected number. 
+
   
-  Video Clip(s): jr-neg11-no-effect-button.mp4
+  Video Clip(s):  jr-neg11-no-effect-button.mp4
 
-  How Reproducible?: Select a category -> NEW
+  How Reproducible?:  Select a category -> NEW
 
-  Heuristic: Aesthetic and Minimalist Design A08
+  Heuristic:  A08 Aesthetic and Minimalist Design
 
-  Only When: Selecting the subcategory NEW
+  Only When:  Selecting the subcategory NEW
+
+
+
 
 
 o JR-Neg12
 
-  Title: Confusing menu
+  Title:  Confusing menu
 
   Description: 
   
-  The menu for all the subcategorys is confusing. To many subcategorys which are not
-  explanied. The overall view is confusing for the user.
+  The menu for all the subcategorys is confusing. 
+  To many subcategorys which are not explanied. The overall view is confusing for the user.
   
-  Video Clip(s): jr-neg12-confusing-menu.mp4
+  
+  Video Clip(s):  jr-neg12-confusing-menu.mp4
 
-  How Reproducible?: Toggle category men
+  How Reproducible?:  Toggle category men
 
-  Heuristic: Flexibility and Efficient Use A07
+  Heuristic:  A07 Flexibility and Efficient Use
 
-  Only When: Hovering over a category
+  Only When:  Hovering over a category
+
+
+
 
