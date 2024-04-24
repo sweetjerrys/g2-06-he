@@ -37,7 +37,7 @@ o MG-Pos01
   This include for example different website colours for colour-blind people.
 
 
-  Video Clip(s):  mg-pos01-accessibility-profiles.mp4
+  Video Clip(s):  p10-mg-pos01-accessibility-profiles.mp4
 
   How Reproducible?:  Open bershka.com on a fresh browser
 
@@ -73,7 +73,7 @@ o MG-Pos03
   The undo function restores the item into the basket
 
 
-  Video Clip(s):  mg-pos03-undo-ok.mp4
+  Video Clip(s):  p07-mg-pos03-undo-ok.mp4
 
   How Reproducible?:  Place one item in the basket -> delete said item -> click undo
 
@@ -91,7 +91,7 @@ o MG-Pos04
   Changing the cookie settings from there reloads the page with the correct content.
 
 
-  Video Clip(s):  mg-pos04-cookie-settings.mp4
+  Video Clip(s):  p12-mg-pos04-cookie-settings.mp4
 
   How Reproducible?:  Navigate to the footer -> open cookie settings and choose a different setting.
 

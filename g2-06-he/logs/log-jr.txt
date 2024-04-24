@@ -37,7 +37,7 @@ o JR-Pos01
   There is no need for the user to check, by trying if someones available.
 
 
-  Video Clip(s):  jr-pos01-hotline-information.mp4
+  Video Clip(s):  p11-jr-pos01-hotline-information.mp4
 
   How Reproducible?:  Scroll to the bottom of the website
 
@@ -55,7 +55,7 @@ o JR-Pos02
   The overall UI is good and easy to handle.
 
 
-  Video Clip(s):  jr-pos02-good-ui.mp4
+  Video Clip(s):  p08-jr-pos02-good-ui.mp4
 
   How Reproducible?:  Naviagte through a category
 
@@ -73,7 +73,7 @@ o JR-Pos03
   Also a combination of both is posssible.
 
 
-  Video Clip(s):  jr-pos03-personalising-items.mp4
+  Video Clip(s):  p04-jr-pos03-personalising-items.mp4
 
   How Reproducible?:  Select men -> customisation
 
@@ -159,7 +159,7 @@ o JR-Neg04
   If the user closes it by mistake, it's not possible to open the Accsibility Configuration menu again. 
 
 
-  Video Clip(s):  jr-neg01-no-reconfigure.mp4
+  Video Clip(s):  n07-jr-neg04-no-reconfigure.mp4
 
   How Reproducible?:  Press the X on accesibility button.
 
@@ -181,7 +181,7 @@ o JR-Neg05
   It does not occur every time.
 
 
-  Video Clip(s):  jr-neg05-jumping-buttons.mp4
+  Video Clip(s):  n06-jr-neg05-jumping-buttons.mp4
 
   How Reproducible?:  Click the button on the left when the drag mouse icon is shown.
 
@@ -203,7 +203,7 @@ o JR-Neg06
   If already in the middle of the scroll view, it does not change the positioning.
 
   
-  Video Clip(s):  jr-neg06-unintended-scroll.mp4
+  Video Clip(s):  n09-jr-neg06-unintended-scroll.mp4
 
   How Reproducible?:  Select a different language in the accsibility menu
 
@@ -269,7 +269,7 @@ o JR-Neg09
   When a different category is selected it takes the longes to load the pictures of the items. 
 
   
-  Video Clip(s):  jr-neg09-long-loading.mp4
+  Video Clip(s):  n10-jr-neg09-long-loading.mp4
 
   How Reproducible?:  select men
 
@@ -333,9 +333,9 @@ o JR-Neg12
   
   The menu for all the subcategorys is confusing. 
   To many subcategorys which are not explanied. The overall view is confusing for the user.
+
   
-  
-  Video Clip(s):  jr-neg12-confusing-menu.mp4
+  Video Clip(s):  n08-jr-neg12-confusing-menu.mp4
 
   How Reproducible?:  Toggle category men
 

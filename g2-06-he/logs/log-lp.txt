@@ -37,7 +37,7 @@ o LP-Pos01
   If you made a mistake by selecting the wrong pice or you want a different size it is really easy to do so.
 
 
-  Video Clip(s):  lp-pos01-easy-to-use-shopping-cart.mp4
+  Video Clip(s):  p02-lp-pos01-easy-to-use-shopping-cart.mp4
 
   How Reproducible?:  When using the shoppingcart
 
@@ -45,7 +45,7 @@ o LP-Pos01
 
 
 
-o LP-Pos03
+o LP-Pos02
 
   Title:  Good shipment options 
 
@@ -55,7 +55,7 @@ o LP-Pos03
   Normal delivery, express delivery, delivery to a store near by where you can then collect it. If the store already has all your items you can collect them the same day. 
 
 
-  Video Clip(s):  lp-pos02-shipment-options.mp4
+  Video Clip(s):  p01-lp-pos02-shipment-options.mp4
 
   How Reproducible?:  Buy something
 
@@ -73,7 +73,7 @@ o LP-Pos03
   You can see exactly how the style would look in action.
 
 
-  Video Clip(s):  lp-pos03-get-the-look.mp4
+  Video Clip(s):  p05-lp-pos03-get-the-look.mp4
 
   How Reproducible?:  Using the get the look function
 
@@ -136,7 +136,7 @@ o LP-Neg03
   This could be really annoying for customers.
 
 
-  Video Clip(s):  lp-neg03-get-the-look.mp4
+  Video Clip(s):  n04-lp-neg03-get-the-look.mp4
 
   How Reproducible?:  Somtimes 
 
@@ -378,7 +378,7 @@ o LP-Neg14
   Otherwise you'r not able to buy anything.
 
    
-  Video Clip(s):  lp-neg14-forced-acc-creation.mp4
+  Video Clip(s):  n11-lp-neg14-forced-acc-creation.mp4
 
   How Reproducible?:  Always
 
@@ -422,7 +422,7 @@ o LP-Neg16
   This is annoying because you have to create one in order to buy products.
   
   
-  Video Clip(s):  lp-neg16-account-deletion.mp4
+  Video Clip(s):  n05-lp-neg16-account-deletion.mp4
 
   How Reproducible?:  Always
 
