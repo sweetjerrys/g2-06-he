@@ -133,7 +133,7 @@ o MG-Neg02
   Users could be unable to see the search bar.
 
 
-  Video Clip(s):  mg-neg02-low-contrast.mp4
+  Video Clip(s):  n44-mg-neg02-low-contrast.mp4
 
   How Reproducible?:  Open bershka.com -> choose "man"
 
@@ -274,7 +274,7 @@ o MG-Neg09
   The UI will also show unrelated pictures that are not clickable.
 
 
-  Video Clip(s):  mg-neg09-unrelated-picture.mp4
+  Video Clip(s):  n34-mg-neg09-unrelated-picture.mp4
 
   How Reproducible?:  In the menu choose "shoes" -> scroll through the results
 
@@ -334,7 +334,7 @@ o MG-Neg12
   User cannot choose to just delete one. Instead they would need to open the edit menu.
 
 
-  Video Clip(s):  mg-neg12-deletes-multiple.mp4
+  Video Clip(s):  n12-mg-neg12-deletes-multiple.mp4
 
   How Reproducible?:  Put 3 identical pants in the basket -> open basket -> click on garbage can next to the pants
 
@@ -354,7 +354,7 @@ o MG-Neg13
   Clicking anywhere else does not trigger the page zoom.
 
 
-  Video Clip(s):  mg-neg13-page-zoom.mp4
+  Video Clip(s):  n38-mg-neg13-page-zoom.mp4
 
   How Reproducible?:  Select one item -> click multiple times on increase quantity
 
@@ -374,7 +374,7 @@ o MG-Neg14
   The user cannot reach the bottom unless they scroll through everything.
 
 
-  Video Clip(s):  mg-neg14-imprint-unreachable.mp4
+  Video Clip(s):  n32-mg-neg14-imprint-unreachable.mp4
 
   How Reproducible?:  Open a section with a lot of content -> scroll down
 
@@ -394,7 +394,7 @@ o MG-Neg15
   This issue may hinder users' ability to access important information.
 
 
-  Video Clip(s):  mg-neg15-broken-html.mp4
+  Video Clip(s):  n35-mg-neg15-broken-html.mp4
 
   How Reproducible?:  Open shopping guide at the footer -> scroll down
 

@@ -92,7 +92,7 @@ o JR-Neg01
   This inconsistency in language will confuse users and disrupt their browsing experience.
 
 
-  Video Clip(s):  jr-neg01-mixed-languages.mp4
+  Video Clip(s):  n33-jr-neg01-mixed-languages.mp4
 
   How Reproducible?:  Visiting the website with no cookies.
 
@@ -114,7 +114,7 @@ o JR-Neg02
   Neither English nor the location depending.
 
 
-  Video Clip(s):  jr-neg02-wrong-language.mp4
+  Video Clip(s):  n17-jr-neg02-wrong-language.mp4
 
   How Reproducible?:  Visiting the site with no cookies.
 
@@ -136,7 +136,7 @@ o JR-Neg03
   The translation is only done for the page but not for the accesibility menu.
 
 
-  Video Clip(s):  jr-neg03-different-language.mp4
+  Video Clip(s):  n26-jr-neg03-different-language.mp4
 
   How Reproducible?:  Selecting a Language for the Accsibility Configuration Menu
   before selecting the website language.
@@ -247,7 +247,7 @@ o JR-Neg08
   This buttons scroll down the side and if they are used each headline is cut off.
 
   
-  Video Clip(s):  jr-neg08-headline-cutoff.mp4
+  Video Clip(s):  n25-jr-neg08-headline-cutoff.mp4
 
   How Reproducible?:  Select Men -> Bershka Printshop -> click one of the three buttons
 
@@ -291,7 +291,7 @@ o JR-Neg10
   It shows two windows which look like the content is loading, but nothing happens.
 
   
-  Video Clip(s):  jr-neg10-no-mania.mp4
+  Video Clip(s):  n39-jr-neg10-no-mania.mp4
 
   How Reproducible?:  Toggle Teens -> select "Hello Kitty Mania"
 
@@ -313,7 +313,7 @@ o JR-Neg11
   The number of displayed items in a row is either smaller or bigger then the selected number. 
 
   
-  Video Clip(s):  jr-neg11-no-effect-button.mp4
+  Video Clip(s):  n21-jr-neg11-no-effect-button.mp4
 
   How Reproducible?:  Select a category -> NEW
 
