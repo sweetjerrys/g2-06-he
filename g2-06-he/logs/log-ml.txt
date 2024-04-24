@@ -355,7 +355,7 @@ o ML-Neg13
   Description:
 
   When searching for a query, the algorithm offers something completely different.
-  It deviates from what was written in the search lines.
+  It deviates from what was written in the search line.
 
   
   Video Clip(s):  n03-ml-neg13-incorrect-search.mp4
