@@ -1,62 +1,62 @@
 pos
-  sort filter ml 2 2 2 -> 2
-  correct item return position ml mg 3 2 2 -> 2.33
-  selecting the product display option ml 3 3 3 -> 3
-  button with accesibility profiles mg  1 4 2 -> 2
-  undo in basket mg 2 2 3 -> 2.33
-  cookie settings mg 1 2 1 -> 1.33
-  hotline information jr 2 1 2 -> 1.66
-  good ui jr 2 3 2 -> 2.33
-  personalise item jr 2 3 2 -> 2.33
-  easy to use shopping cart lp 3 3 3 -> 3
   good shiping options lp 3 4 3 -> 3.33
+  easy to use shopping cart lp 3 3 3 -> 3
+  selecting the product display option ml 3 3 3 -> 3
+  personalise item jr 2 3 2 -> 2.33
   idea of get the look lp 2 3 2 2.33
+  correct item return position ml mg 3 2 2 -> 2.33
+  undo in basket mg 2 2 3 -> 2.33
+  good ui jr 2 3 2 -> 2.33
+  sort filter ml 2 2 2 -> 2
+  button with accesibility profiles mg  1 4 2 -> 2
+  hotline information jr 2 1 2 -> 1.66
+  cookie settings mg 1 2 1 -> 1.33
 
 neg 
-  mixed language jr ml 2 2 1 -> 1.66
-  wrong language jr mg 2 3 3 -> 2.66
-  different language jr mg 2 2 2 -> 2
-  no reconfigure jr mg 3 4 3 -> 3.33
-  jumping buttons jr 4 4 3 -> 3.66
-  unintended scroll jr 3 3 3 -> 3
-  headline cutoff jr 3 2 2 -> 2.33
-  long loading jr ml 4 3 2 -> 3
-  no manina jr mg 2 1 1 -> 1.33
-  no effect button jr mg 2 2 3 -> 2.33
-  confusing menu jr lp 3 3 4 -> 3.33
-  missing icon ml 1 1 1 -> 1
-  remove title ml 3 3 2 -> 2.66
   crash ml  4 4 4 -> 4
-  grid setting not saved ml 2 3 1 -> 2
-  wrong sorting filter ml mg 4 2 3 -> 3
-  twitchy scrolling ml 3 3 3 -> 3
-  not clear filter option extemsion ml 3 2 3 -> 2.66
-  favorites buggy ml 2 3 2 -> 2.33
   unexpected removal ml 4 4 4 -> 4
   incorrect search ml lp 4 4 4 -> 4
-  color filters error ml 3 3 3 -> 3
-  unnecessary filter extension ml 3 3 2 -> 2.66
-  language not displayed ml 2 2 2 -> 2
-  different cover ml 1 1 1 -> 1
-  menu duplication ml 3 3 3 -> 3
-  hard to find help lp 2 3 2 -> 2.33
-  inconsistent navigation lp 2 1 1 -> 1.33
   get the look lp 4 4 4 -> 4
-  overloaded product pages lp 1 1 1 -> 1
-  complicated checkout process lp 3 3 3 -> 3
-  cluttered visual design lp 2 2 2 -> 2 
-  not returning lp 2 3 2 -> 2.33
-  zoom button appearance lp 1 1 1 -> 1
-  zoom button buggy lp 2 2 2 -> 2
-  poor error messsages whe adding item fails lp 1 1 2 -> 1.33
-  undo not working lp mg 3 3 2 -> 2.66
-  forced account creation lp 4 2 3 -> 3
-  limited payment options lp 3 1 2 -> 2
   difficult account deletion lp 4 4 4 -> 4
-  low contrast ui mg 1 0 1 -> 0.66
+  jumping buttons jr 4 4 3 -> 3.66
+  no reconfigure jr mg 3 4 3 -> 3.33
+  confusing menu jr lp 3 3 4 -> 3.33
+  unintended scroll jr 3 3 3 -> 3
+  long loading jr ml 4 3 2 -> 3
+  forced account creation lp 4 2 3 -> 3
+  multiple items deleted mg 3 3 3 -> 3
+  complicated checkout process lp 3 3 3 -> 
+  wrong sorting filter ml mg 4 2 3 -> 3
+    twitchy scrolling ml 3 3 3 -> 3
+  color filters error ml 3 3 3 -> 3
+  wrong language jr mg 2 3 3 -> 2.66
+  remove title ml 3 3 2 -> 2.66
+  not clear filter option extemsion ml 3 2 3 -> 2.66
+  unnecessary filter extension ml 3 3 2 -> 2.66
+  undo not working lp mg 3 3 2 -> 2.66
+  no effect button jr mg 2 2 3 -> 2.33
+  hard to find help lp 2 3 2 -> 2.33
+  favorites buggy ml 2 3 2 -> 2.33
+  not returning lp 2 3 2 -> 2.33
+  headline cutoff jr 3 2 2 2.33
+  different language jr mg 2 2 2 -> 2
+  grid setting not saved ml 2 3 1 -> 2
+  language not displayed ml 2 2 2 -> 2
+  cluttered visual design lp 2 2 2 -> 2 
+  zoom button buggy lp 2 2 2 -> 2
+  limited payment options lp 3 1 2 -> 2
+  imprint unreachable mg 2 2 2 -> 2
+  mixed languages jr 2 1 1 1.33
   unrelated pictures mg lp 1 1 2 -> 1.66
   inconsistent naming mg 2 1 2 -> 1.66
-  multiple items deleted mg 3 3 3 -> 3
+  language jr ml 2 2 1 -> 1.66
+  inconsistent navigation lp 2 1 1 -> 1.33
+  poor error messsages whe adding item fails lp 1 1 2 -> 1.33
   unintended page zoom mg 1 1 2 -> 1.33
-  imprint unreachable mg 2 2 2 -> 2
+  no manina jr mg 2 1 1 -> 1.33
+  overloaded product pages lp 1 1 1 -> 1
+  missing icon ml 1 1 1 -> 1
+  different cover ml 1 1 1 -> 1
+  zoom button appearance lp 1 1 1 -> 1
+  low contrast ui mg 1 0 1 -> 0.66
   
